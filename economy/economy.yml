@@ -2083,7 +2083,7 @@ sellabls:
     execute:
     - sfp spawner give WITCH 1 %player%
   void_chest:
-    buy-price-total: 5000000
+    buy-price-total: 1000000
     execute:
     - shop void_chest give %player%
   crop_hopper:
