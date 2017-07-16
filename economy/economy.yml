@@ -1,0 +1,2177 @@
+sellabls:
+  stone:
+    buy-price-total: 64
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: STONE
+        amount: 64
+    sell:
+      material: STONE
+      amount: 64
+  cobblestone:
+    buy-price-total: 64
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: COBBLESTONE
+        amount: 64
+    sell:
+      material: COBBLESTONE
+      amount: 64
+  sand:
+    buy-price-total: 64
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: SAND
+        amount: 64
+    sell:
+      material: SAND
+      amount: 64
+  gravel:
+    buy-price-total: 64
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: GRAVEL
+        amount: 64
+    sell:
+      material: GRAVEL
+      amount: 64
+  sponge:
+    buy-price-total: 1000
+    give:
+      item1:
+        material: SPONGE
+        amount: 16
+  regular_glass:
+    buy-price-total: 250
+    sell-price-total: 64
+    give:
+      item1:
+        material: GLASS
+        amount: 64
+    sell:
+      material: GLASS
+      amount: 64
+  dispenser:
+    buy-price-total: 1000
+    give:
+      item1:
+        material: DISPENSER
+        amount: 64
+  cobweb:
+    buy-price-total: 3200
+    give:
+      item1:
+        material: WEB
+        amount: 64
+  piston:
+    buy-price-total: 750
+    give:
+      item1:
+        material: PISTON_BASE
+        amount: 64
+  chest:
+    buy-price-total: 10
+    give:
+      item1:
+        material: CHEST
+        amount: 1
+  trapped_chest:
+    buy-price-total: 10
+    give:
+      item1:
+        material: 146
+        amount: 1
+  redstone:
+    buy-price-total: 128
+    sell-price-total: 32
+    give:
+      item1:
+        material: REDSTONE
+        amount: 64
+    sell:
+      material: REDSTONE
+      amount: 64
+  furnace:
+    buy-price-total: 64
+    give:
+      item1:
+        material: FURNACE
+        amount: 1
+  door:
+    buy-price-total: 5
+    give:
+      item1:
+        material: WOOD_DOOR
+        amount: 1
+  ladder:
+    buy-price-total: 32
+    give:
+      item1:
+        material: LADDER
+        amount: 64
+  rail:
+    buy-price-total: 1000
+    give:
+      item1:
+        material: RAILS
+        amount: 16
+  redstone_torch:
+    buy-price-total: 256
+    give:
+      item1:
+        material: REDSTONE_TORCH_ON
+        amount: 64
+  sign:
+    buy-price-total: 32
+    give:
+      item1:
+        material: SIGN
+        amount: 16
+  lever:
+    buy-price-total: 5
+    give:
+      item1:
+        material: LEVER
+        amount: 1
+  stone_button:
+    buy-price-total: 4
+    give:
+      item1:
+        material: STONE_BUTTON
+        amount: 1
+  ice:
+    buy-price-total: 500
+    give:
+      item1:
+        material: ICE
+        amount: 64
+  glass_bottle:
+    buy-price-total: 83
+    give:
+      item1:
+        material: 374
+        amount: 64
+  redstone_block:
+    buy-price-total: 9
+    sell-price-total: 4.5
+    give:
+      item1:
+        material: REDSTONE_BLOCK
+        amount: 1
+    sell:
+      material: REDSTONE_BLOCK
+      amount: 1
+  slime_block:
+    buy-price-total: 640
+    give:
+      item1:
+        material: SLIME_BLOCK
+        amount: 1
+  sticky_piston:
+    buy-price-total: 1000
+    give:
+      item1:
+        material: PISTON_STICKY_BASE
+        amount: 64
+  flint_and_steel:
+    buy-price-total: 300
+    give:
+      item1:
+        material: FLINT_AND_STEEL
+        amount: 1
+  tnt:
+    buy-price-total: 5000
+    give:
+      item1:
+        material: TNT
+        amount: 64
+  water_bucket:
+    buy-price-total: 375
+    give:
+      item1:
+        material: WATER_BUCKET
+        amount: 16
+  lava_bucket:
+    buy-price-total: 750
+    give:
+      item1:
+        material: LAVA_BUCKET
+        amount: 16
+  minecart:
+    buy-price-total: 900
+    give:
+      item1:
+        material: MINECART
+        amount: 1
+  stone_slab:
+    buy-price-total: 64
+    give:
+      item1:
+        amount: 64
+        material: 44
+  glowstone:
+    buy-price-total: 265
+    give:
+      item1:
+        material: GLOWSTONE
+        amount: 16
+  redstone_repeater:
+    buy-price-total:  256
+    give:
+      item1:
+        material: DIODE
+        amount: 32
+  redstone_comparator:
+    buy-price-total: 256
+    give:
+      item1:
+        material: REDSTONE_COMPARATOR
+        amount: 16
+  red_sand:
+    buy-price-total: 64
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: SAND
+        data: 1
+        amount: 64
+    sell:
+      material: SAND
+      data: 1
+      amount: 64
+  cactus:
+    buy-price-total: 800
+    sell-price-total: 150
+    give:
+      item1:
+        material: CACTUS
+        amount: 64
+    sell:
+      material: CACTUS
+      amount: 64
+  pumpkin:
+    buy-price-total: 1840
+    sell-price-total: 500
+    give:
+      item1:
+        material: PUMPKIN
+        amount: 64
+    sell:
+      material: PUMPKIN
+      amount: 64
+  cocoa_beans:
+    buy-price-total: 800
+    sell-price-total: 200
+    give:
+      item1:
+        material: 351
+        data: 3
+        amount: 64
+    sell:
+      material: 351
+      data: 3
+      amount: 64
+  apple:
+    buy-price-total: 800
+    sell-price-total: 200
+    give:
+      item1:
+        material: APPLE
+        amount: 64
+    sell:
+      material: APPLE
+      amount: 64
+  wheat:
+    buy-price-total: 3200
+    sell-price-total: 800
+    give:
+      item1:
+        material: WHEAT
+        amount: 64
+    sell:
+      material: WHEAT
+      amount: 64
+  reeds:
+    buy-price-total: 2400
+    sell-price-total: 600
+    give:
+      item1:
+        material: SUGAR_CANE
+        amount: 64
+    sell:
+      material: SUGAR_CANE
+      amount: 64
+  melon:
+    buy-price-total: 200
+    sell-price-total: 180
+    give:
+      item1:
+        material: 360
+        amount: 64
+    sell:
+      material: 360
+      amount: 64
+  nether_wart:
+    buy-price-total: 2400
+    sell-price-total: 600
+    give:
+      item1:
+        material: 372
+        amount: 64
+    sell:
+      material: 372
+      amount: 64
+  carrot:
+    buy-price-total: 1840
+    sell-price-total: 500
+    give:
+      item1:
+        material: 391
+        amount: 64
+    sell:
+      material: 391
+      amount: 64
+  potato:
+    buy-price-total: 1840
+    sell-price-total: 500
+    give:
+      item1:
+        material: 392
+        amount: 64
+    sell:
+      material: 392
+      amount: 64
+  baked_potato:
+    buy-price-total: 1860
+    sell-price-total: 520
+    give:
+      item1:
+        material: 393
+        amount: 64
+    sell:
+      material: 393
+      amount: 64
+  obsidian:
+    buy-price-total: 500
+    sell-price-total: 100
+    give:
+      item1:
+        material: 49
+        amount: 64
+    sell:
+      material: 49
+      amount: 64
+  dirt:
+    buy-price-total: 64
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: DIRT
+        amount: 64
+    sell:
+      material: DIRT
+      amount: 64
+  nether_brick:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 112
+        amount: 64
+    sell:
+      material: 112
+      amount: 64
+  brick:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 45
+        amount: 64
+    sell:
+      material: 45
+      amount: 64
+  string:
+    buy-price-total: 96
+    sell-price-total: 48
+    give:
+      item1:
+        material: 287
+        amount: 64
+    sell:
+      material: 287
+      amount: 64
+  hopper:
+    buy-price-total: 20000
+    give:
+      item1:
+        material: 154
+        amount: 1
+  stone_brick:
+    buy-price-total: 256
+    sell-price-total: 25.6
+    give:
+      item1:
+        material: 98
+        amount: 64
+    sell:
+      material: 98
+      amount: 64
+  mossy_stone_brick:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 98
+        data: 1
+        amount: 64
+  cracked_stone_brick:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 98
+        data: 2
+        amount: 64
+  circle_stone_brick:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 98
+        data: 3
+        amount: 64
+  quartz_block:
+    buy-price-total: 1125
+    give:
+      item1:
+        material: 155
+        amount: 64
+  chiseled_quartz_block:
+    buy-price-total: 384
+    give:
+      item1:
+        material: 155
+        data: 1
+        amount: 64
+  pillar_quartz_block:
+    buy-price-total: 384
+    give:
+      item1:
+        material: 155
+        data: 2
+        amount: 64
+  prismarine:
+    buy-price-total: 640
+    give:
+      item1:
+        material: 168
+        amount: 64
+  prismarine_brick:
+    buy-price-total: 2560
+    give:
+      item1:
+        material: 168
+        data: 1
+        amount: 64
+  dark_prismarine:
+    buy-price-total: 2560
+    give:
+      item1:
+        material: 168
+        data: 2
+        amount: 64
+  hay_bale:
+    buy-price-total: 7200
+    give:
+      item1:
+        material: 170
+        amount: 16
+  sea_lamp:
+    buy-price-total: 2560
+    give:
+      item1:
+        material: 169
+        amount: 64
+  snow:
+    buy-price-total: 128
+    give:
+      item1:
+        material: 80
+        amount: 64
+  packed_ice:
+    buy-price-total: 750
+    give:
+      item1:
+        material: 174
+        amount: 64
+  granite:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 1
+        data: 1
+        amount: 64
+    sell:
+      material: 1
+      data: 1
+      amount: 64
+  polished_granite:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 1
+        data: 2
+        amount: 64
+    sell:
+      material: 1
+      data: 2
+      amount: 64
+  diorite:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 1
+        data: 3
+        amount: 64
+    sell:
+      material: 1
+      data: 3
+      amount: 64
+  polished_diorite:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 1
+        data: 4
+        amount: 64
+    sell:
+      material: 1
+      data: 4
+      amount: 64
+  andesite:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 1
+        data: 5
+        amount: 64
+    sell:
+      material: 1
+      data: 5
+      amount: 64
+  polished_andesite:
+    buy-price-total: 128
+    sell-price-total: 12.8
+    give:
+      item1:
+        material: 1
+        data: 6
+        amount: 64
+    sell:
+      material: 1
+      data: 6
+      amount: 64
+  grass:
+    buy-price-total: 128
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: 2
+        amount: 64
+    sell:
+      material: 2
+      amount: 64
+  coarse_dirt:
+    buy-price-total: 128
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: 3
+        data: 1
+        amount: 64
+    sell:
+      material: 3
+      data: 1
+      amount: 64
+  podzol:
+    buy-price-total: 128
+    sell-price-total: 6.4
+    give:
+      item1:
+        material: 3
+        data: 2
+        amount: 64
+    sell:
+      material: 3
+      data: 2
+      amount: 64
+  oak_wood:
+    buy-price-total: 320
+    sell-price-total: 128
+    give:
+      item1:
+        material: 17
+        amount: 64
+    sell:
+      material: 17
+      amount: 64
+  spruce_wood:
+    buy-price-total: 320
+    sell-price-total: 128
+    give:
+      item1:
+        material: 17
+        data: 1
+        amount: 64
+    sell:
+      material: 17
+      data: 1
+      amount: 64
+  birch_wood:
+    buy-price-total: 320
+    sell-price-total: 128
+    give:
+      item1:
+        material: 17
+        data: 2
+        amount: 64
+    sell:
+      material: 17
+      data: 2
+      amount: 64
+  jungle_wood:
+    buy-price-total: 320
+    sell-price-total: 128
+    give:
+      item1:
+        material: 17
+        data: 3
+        amount: 64
+    sell:
+      material: 17
+      data: 3
+      amount: 64
+  acacia_wood:
+    buy-price-total: 320
+    sell-price-total: 128
+    give:
+      item1:
+        material: 162
+        amount: 64
+    sell:
+      material: 162
+      amount: 64
+  dark_oak_wood:
+    buy-price-total: 320
+    sell-price-total: 128
+    give:
+      item1:
+        material: 162
+        data: 1
+        amount: 64
+    sell:
+      material: 162
+      data: 1
+      amount: 64
+  acacia_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 161
+        amount: 64
+  birch_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 18
+        data: 2
+        amount: 64
+  dark_oak_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 161
+        data: 1
+        amount: 64
+  oak_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 18
+        amount: 64
+  spruce_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 18
+        data: 1
+        amount: 64
+  brich_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 18
+        data: 2
+        amount: 64
+  jungle_leaves:
+    buy-price-total: 320
+    give:
+      item1:
+        material: 18
+        data: 3
+        amount: 64
+  sand_stone:
+    buy-price-total: 256
+    sell-price-total: 25.6
+    give:
+      item1:
+        material: 24
+        amount: 64
+    sell:
+      material: 24
+      amount: 64
+  chiseled_sand_stone:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 24
+        data: 1
+        amount: 64
+  smooth_sand_stone:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 24
+        data: 2
+        amount: 64
+  moss_stone:
+    buy-price-total: 128
+    give:
+      item1:
+        material: 48
+        amount: 64
+  mycelium:
+    buy-price-total: 128
+    give:
+      item1:
+        material: 110
+        amount: 64
+  endstone:
+    buy-price-total: 350
+    sell-price-total: 100
+    give:
+      item1:
+        material: 121
+        amount: 64
+    sell:
+      material: 121
+      amount: 64
+  red_sand_stone:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 179
+        amount: 64
+  chiseled_red_sand_stone:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 179
+        data: 1
+        amount: 64
+  smooth_red_sand_stone:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 179
+        data: 2
+        amount: 64
+  nether_rack:
+    buy-price-total: 128
+    sell-price-total: 3.2
+    give:
+      item1:
+        material: 87
+        amount: 64
+    sell:
+      material: 87
+      amount: 64
+  soul_sand:
+    buy-price-total: 128
+    give:
+      item1:
+        material: 88
+        amount: 64
+  lily_pad:
+    buy-price-total: 256
+    give:
+      item1:
+        material: 111
+        amount: 64
+  rabbit_hide:
+    buy-price-total: 256
+    sell-price-total: 96
+    give:
+      item1:
+        material: 415
+        amount: 64
+    sell:
+      material: 415
+      amount: 64
+  raw_rabbit:
+    buy-price-total: 256
+    sell-price-total: 64
+    give:
+      item1:
+        material: 411
+        amount: 64
+    sell:
+      material: 411
+      amount: 64
+  cooked_fish:
+    buy-price-total: 1536
+    sell-price-total: 768
+    give:
+      item1:
+        material: 350
+        amount: 64
+    sell:
+      material: 350
+      amount: 64
+  cooked_rabbit:
+    buy-price-total: 256
+    sell-price-total: 96
+    give:
+      item1:
+        material: 412
+        amount: 64
+    sell:
+      material: 412
+      amount: 64
+  rabbit_foot:
+    buy-price-total: 256
+    sell-price-total: 96
+    give:
+      item1:
+        material: 414
+        amount: 64
+    sell:
+      material: 414
+      amount: 64
+  slime_ball:
+    buy-price-total: 4480
+    sell-price-total: 2240
+    give:
+      item1:
+        material: 341
+        amount: 64
+    sell:
+      material: 341
+      amount: 64
+  magma_cream:
+    buy-price-total: 4480
+    sell-price-total: 2240
+    give:
+      item1:
+        material: 378
+        amount: 64
+    sell:
+      material: 378
+      amount: 64
+  spider_eye:
+    buy-price-total: 256
+    sell-price-total: 128
+    give:
+      item1:
+        material: 375
+        amount: 64
+    sell:
+      material: 375
+      amount: 64
+  raw_beef:
+    buy-price-total: 384
+    sell-price-total: 192
+    give:
+      item1:
+        material: 363
+        amount: 64
+    sell:
+      material: 363
+      amount: 64
+  steak:
+    buy-price-total: 512
+    sell-price-total: 256
+    give:
+      item1:
+        material: 364
+        amount: 64
+    sell:
+      material: 364
+      amount: 64
+  raw_chicken:
+    buy-price-total: 128
+    sell-price-total: 64
+    give:
+      item1:
+        material: 365
+        amount: 64
+    sell:
+      material: 365
+      amount: 64
+  cooked_chicken:
+    buy-price-total: 192
+    sell-price-total: 96
+    give:
+      item1:
+        material: 366
+        amount: 64
+    sell:
+      material: 366
+      amount: 64
+  rotten_flesh:
+    buy-price-total: 320
+    sell-price-total: 160
+    give:
+      item1:
+        material: 367
+        amount: 64
+    sell:
+      material: 367
+      amount: 64
+  ender_pearl:
+    buy-price-total: 2880
+    sell-price-total: 1440
+    give:
+      item1:
+        material: 368
+        amount: 16
+    sell:
+      material: 368
+      amount: 16
+  blaze_rod:
+    buy-price-total: 2176
+    sell-price-total: 1088
+    give:
+      item1:
+        material: 369
+        amount: 64
+    sell:
+      material: 369
+      amount: 64
+  ghast_tear:
+    buy-price-total: 7680
+    sell-price-total: 3840
+    give:
+      item1:
+        material: 370
+        amount: 64
+    sell:
+      material: 370
+      amount: 64
+  gold_nugget:
+    buy-price-total: 1408
+    sell-price-total: 704
+    give:
+      item1:
+        material: 371
+        amount: 64
+    sell:
+      material: 371
+      amount: 64
+  gunpowder:
+    buy-price-total: 1024
+    give:
+      item1:
+        material: 289
+        amount: 64
+  raw_fish:
+    buy-price-total: 1280
+    sell-price-total: 640
+    give:
+      item1:
+        material: 349
+        amount: 64
+    sell:
+      material: 349
+      amount: 64
+  bone:
+    buy-price-total: 320
+    sell-price-total: 160
+    give:
+      item1:
+        material: 352
+        amount: 64
+    sell:
+      material: 352
+      amount: 64
+  egg:
+    buy-price-total: 256
+    # sell-price-total: 64
+    give:
+      item1:
+        material: 344
+        amount: 64
+    # sell:
+    #   material: 344
+    #   amount: 64
+  leather:
+    buy-price-total: 384
+    sell-price-total: 192
+    give:
+      item1:
+        material: 334
+        amount: 64
+    sell:
+      material: 334
+      amount: 64
+  raw_porkchop:
+    buy-price-total: 256
+    sell-price-total: 128
+    give:
+      item1:
+        material: 319
+        amount: 64
+    sell:
+      material: 319
+      amount: 64
+  cooked_porkchop:
+    buy-price-total: 384
+    sell-price-total: 192
+    give:
+      item1:
+        material: 320
+        amount: 64
+    sell:
+      material: 320
+      amount: 64
+  iron_ingot:
+    buy-price-total: 10240
+    sell-price-total: 5120
+    give:
+      item1:
+        material: 265
+        amount: 64
+    sell:
+      material: 265
+      amount: 64
+  gold_ingot:
+    buy-price-total: 12800
+    sell-price-total: 6400
+    give:
+      item1:
+        material: 266
+        amount: 64
+    sell:
+      material: 266
+      amount: 64
+  arrow:
+    buy-price-total: 320
+    sell-price-total: 160
+    give:
+      item1:
+        material: 262
+        amount: 64
+    sell:
+      material: 262
+      amount: 64
+  prismarine_crystals:
+    buy-price-total: 832
+    sell-price-total: 416
+    give:
+      item1:
+        material: 410
+        amount: 64
+    sell:
+      material: 410
+      amount: 64
+  prismarine_shard:
+    buy-price-total: 832
+    sell-price-total: 416
+    give:
+      item1:
+        material: 409
+        amount: 64
+    sell:
+      material: 409
+      amount: 64
+  feather:
+    buy-price-total: 192
+    sell-price-total: 96
+    give:
+      item1:
+        material: 288
+        amount: 64
+    sell:
+      material: 288
+      amount: 64
+  blaze_powder:
+    buy-price-total: 1280
+    give:
+      item1:
+        material: 377
+        amount: 64
+  cauldron:
+    buy-price-total: 600
+    give:
+      item1:
+        material: 380
+        amount: 1
+  brewing_stand:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 379
+        amount: 1
+  brown_mushroom:
+    buy-price-total: 48
+    give:
+      item1:
+        material: 39
+        amount: 64
+  red_mushroom:
+    buy-price-total: 48
+    sell-price-total:
+    give:
+      item1:
+        material: 40
+        amount: 64
+  fermented_spider_eye:
+    buy-price-total: 80
+    give:
+      item1:
+        material: 376
+        amount: 64
+  sugar:
+    buy-price-total: 600
+    give:
+      item1:
+        material: 353
+        amount: 64
+  glistering_melon:
+    buy-price-total: 1200
+    give:
+      item1:
+        material: 382
+        amount: 64
+  glowstone_dust:
+    buy-price-total: 64
+    give:
+      item1:
+        material: 348
+        amount: 64
+  orange_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 1
+        amount: 64
+  magenta_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 2
+        amount: 64
+  light_blue_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 3
+        amount: 64
+  yellow_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 4
+        amount: 64
+  lime_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 5
+        amount: 64
+  pink_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 6
+        amount: 64
+  gray_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 7
+        amount: 64
+  light_gray_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 8
+        amount: 64
+  cyan_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 9
+        amount: 64
+  purple_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 10
+        amount: 64
+  blue_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 11
+        amount: 64
+  brown_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 12
+        amount: 64
+  green_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 13
+        amount: 64
+  red_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 14
+        amount: 64
+  black_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        data: 15
+        amount: 64
+  white_stained_glass:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 95
+        amount: 64
+  regular_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 102
+        data: 1
+        amount: 64
+  orange_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 1
+        amount: 64
+  mageneta_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 2
+        amount: 64
+  light_blue_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 3
+        amount: 64
+  yellow_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 4
+        amount: 64
+  lime_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 5
+        amount: 64
+  pink_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 6
+        amount: 64
+  gray_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 7
+        amount: 64
+  light_gray_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 8
+        amount: 64
+  cyan_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 9
+        amount: 64
+  purple_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 10
+        amount: 64
+  blue_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 11
+        amount: 64
+  brown_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 12
+        amount: 64
+  green_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 13
+        amount: 64
+  red_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 14
+        amount: 64
+  black_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        data: 15
+        amount: 64
+  white_stained_glass_panes:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 160
+        amount: 64
+  white_wool:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 35
+        amount: 64
+  orange_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 1
+        amount: 64
+  magenta_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 2
+        amount: 64
+  light_blue_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 3
+        amount: 64
+  yellow_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 4
+        amount: 64
+  lime_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 5
+        amount: 64
+  pink_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 6
+        amount: 64
+  gray_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 7
+        amount: 64
+  light_gray_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 8
+        amount: 64
+  cyan_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 9
+        amount: 64
+  purple_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 10
+        amount: 64
+  blue_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 11
+        amount: 64
+  brown_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 12
+        amount: 64
+  green_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 13
+        amount: 64
+  red_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 14
+        amount: 64
+  black_wool:
+    buy-price-total: 450
+    give:
+      item1:
+        material: 35
+        data: 15
+        amount: 64
+  clay:
+    buy-price-total: 64
+    give:
+      item1:
+        material: 82
+        amount: 64
+  white_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        amount: 64
+  orange_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 1
+        amount: 64
+  magenta_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 2
+        amount: 64
+  light_blue_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 3
+        amount: 64
+  yellow_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 4
+        amount: 64
+  lime_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 5
+        amount: 64
+  pink_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 6
+        amount: 64
+  gray_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 7
+        amount: 64
+  light_gray_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 8
+        amount: 64
+  blue_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 11
+        amount: 64
+  cyan_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 9
+        amount: 64
+  purple_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 10
+        amount: 64
+  brown_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 12
+        amount: 64
+  green_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 13
+        amount: 64
+  red_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 14
+        amount: 64
+  black_stained_clay:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 159
+        data: 15
+        amount: 64
+  HARD_CLAY:
+    buy-price-total: 400
+    give:
+      item1:
+        material: 172
+        amount: 64
+  white_carpet:
+    buy-price-total: 100
+    give:
+      item1:
+        material: 171
+        amount: 64
+  orange_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 1
+        amount: 64
+  magenta_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 2
+        amount: 64
+  light_blue_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 3
+        amount: 64
+  yellow_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 4
+        amount: 64
+  lime_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 5
+        amount: 64
+  pink_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 6
+        amount: 64
+  gray_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 7
+        amount: 64
+  light_gray_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 8
+        amount: 64
+  cyan_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 9
+        amount: 64
+  purple_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 10
+        amount: 64
+  blue_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 11
+        amount: 64
+  brown_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 12
+        amount: 64
+  green_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 13
+        amount: 64
+  red_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 14
+        amount: 64
+  black_carpet:
+    buy-price-total: 150
+    give:
+      item1:
+        material: 171
+        data: 15
+        amount: 64
+  diamond:
+    buy-price-total: 19200
+    sell-price-total: 9600
+    give:
+      item1:
+        material: 264
+        amount: 64
+    sell:
+      material: 264
+      amount: 64
+  lapis:
+    buy-price-total: 128
+    sell-price-total: 64
+    give:
+      item1:
+        material: 351
+        data: 4
+        amount: 64
+    sell:
+      material: 351
+      data: 4
+      amount: 64
+  nether_quartz:
+    buy-price-total: 128
+    sell-price-total: 64
+    give:
+      item1:
+        material: 406
+        amount: 64
+    sell:
+      material: 406
+      amount: 64
+  coal:
+    buy-price-total: 115.2
+    sell-price-total: 57.6
+    give:
+      item1:
+        material: 263
+        amount: 64
+    sell:
+      material: 263
+      amount: 64
+  coal_block:
+    buy-price-total: 921.6
+    sell-price-total: 460.8
+    give:
+      item1:
+        material: 173
+        amount: 64
+    sell:
+      material: 173
+      amount: 64
+  iron_block:
+    buy-price-total: 1440
+    sell-price-total: 720
+    give:
+      item1:
+        material: 42
+        amount: 1
+    sell:
+      material: 42
+      amount: 1
+  gold_block:
+    buy-price-total: 1800
+    sell-price-total: 900
+    give:
+      item1:
+        material: 41
+        amount: 1
+    sell:
+      material: 41
+      amount: 1
+  redstone_block:
+    buy-price-total: 486
+    sell-price-total: 288
+    give:
+      item1:
+        material: 152
+        amount: 64
+    sell:
+      material: 152
+      amount: 64
+  lapis_block:
+    buy-price-total: 1152
+    sell-price-total: 576
+    give:
+      item1:
+        material: 22
+        amount: 64
+    sell:
+      material: 22
+      amount: 64
+  diamond_block:
+    buy-price-total: 2700
+    sell-price-total: 1350
+    give:
+      item1:
+        material: 57
+        amount: 1
+    sell:
+      material: 57
+      amount: 1
+  emerald_block:
+    buy-price-total: 2700
+    sell-price-total: 1350
+    give:
+      item1:
+        material: 133
+        amount: 1
+    sell:
+      material: 133
+      amount: 1
+  emerald:
+    buy-price-total: 600
+    sell-price-total: 300
+    give:
+      item1:
+        material: 388
+        amount: 1
+    sell:
+      material: 388
+      amount: 1
+  fishing_rod:
+    buy-price-total: 15
+    give:
+      item1:
+        material: 346
+        amount: 1
+  anvil:
+    buy-price-total: 6000
+    give:
+      item1:
+        material: 145
+        amount: 1
+  raw_salmon:
+    buy-price-total: 3200
+    sell-price-total: 1600
+    give:
+      item1:
+        material: 349
+        data: 1
+        amount: 64
+    sell:
+      material: 349
+      data: 1
+      amount: 64
+  clown_fish:
+    buy-price-total: 6400
+    sell-price-total: 3200
+    give:
+      item1:
+        material: 349
+        data: 2
+        amount: 64
+    sell:
+      material: 349
+      data: 2
+      amount: 64
+  puffer_fish:
+    buy-price-total: 3200
+    sell-price-total: 1600
+    give:
+      item1:
+        material: 349
+        data: 3
+        amount: 64
+    sell:
+      material: 349
+      data: 3
+      amount: 64
+  cooked_salmon:
+    buy-price-total: 4000
+    sell-price-total: 2000
+    give:
+      item1:
+        material: 350
+        data: 1
+        amount: 64
+    sell:
+      material: 350
+      data: 1
+      amount: 64
+  boat:
+    buy-price-total: 20
+    give:
+      item1:
+        material: 333
+        amount: 1
+  diamond_sword:
+    buy-price-total: 600
+    give:
+      item1:
+        material: 276
+        amount: 1
+  diamond_shovel:
+    buy-price-total: 300
+    give:
+      item1:
+        material: 277
+        amount: 1
+  diamond_pickaxe:
+    buy-price-total: 900
+    give:
+      item1:
+        material: 278
+        amount: 1
+  diamond_axe:
+    buy-price-total: 900
+    give:
+      item1:
+        material: 279
+        amount: 1
+  diamond_hoe:
+    buy-price-total: 600
+    give:
+      item1:
+        material: 293
+        amount: 1
+  diamond_helmet:
+    buy-price-total: 1500
+    give:
+      item1:
+        material: 310
+        amount: 1
+  diamond_chestplate:
+    buy-price-total: 2100
+    give:
+      item1:
+        material: 311
+        amount: 1
+  diamond_leggings:
+    buy-price-total: 1800
+    give:
+      item1:
+        material: 312
+        amount: 1
+  diamond_boots:
+    buy-price-total: 1200
+    give:
+      item1:
+        material: 313
+        amount: 1
+  gold_apple:
+    buy-price-total: 6400
+    give:
+      item1:
+        material: 322
+        amount: 64
+  god_apple:
+    buy-price-total: 20000
+    give:
+      item1:
+        material: 322
+        data: 1
+        amount: 1
+  creeper_egg:
+    buy-price-total: 500000
+    give:
+      item1:
+        material: 383
+        data: 50
+        amount: 1
+  creeper_spawner:
+    buy-price-total: 1000000
+    execute:
+    - sfp spawner give CREEPER 1 %player%
+  zombie_spawner:
+    buy-price-total: 100000
+    execute:
+    - sfp spawner give ZOMBIE 1 %player%
+  ender_man_spawner:
+    buy-price-total: 1000000
+    execute:
+    - sfp spawner give ENDERMAN 1 %player%
+  zombie_pigman_spawner:
+    buy-price-total: 800000
+    execute:
+    - sfp spawner give PIG_ZOMBIE 1 %player%
+  mooshroom_spawner:
+    buy-price-total: 300000
+    execute:
+    - sfp spawner give MUSHROOM_COW 1 %player%
+  cow_spawner:
+    buy-price-total: 300000
+    execute:
+    - sfp spawner give COW 1 %player%
+  chicken_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give CHICKEN 1 %player%
+  rabbit_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give RABBIT 1 %player%
+  wolf_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give WOLF 1 %player%
+  ocelot_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give OCELOT 1 %player%
+  pig_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give PIG 1 %player%
+  sheep_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give SHEEP 1 %player%
+  skeleton_spawner:
+    buy-price-total: 100000
+    execute:
+    - sfp spawner give SKELETON 1 %player%
+  blaze_spawner:
+    buy-price-total: 600000
+    execute:
+    - sfp spawner give BLAZE 1 %player%
+  cave_spider_spawner:
+    buy-price-total: 60000
+    execute:
+    - sfp spawner give CAVE_SPIDER 1 %player%
+  spider_spawner:
+    buy-price-total: 75000
+    execute:
+    - sfp spawner give SPIDER 1 %player%
+  guardian_spawner:
+    buy-price-total: 600000
+    execute:
+    - sfp spawner give GUARDIAN 1 %player%
+  magma_cube_spawner:
+    buy-price-total: 1000000
+    execute:
+    - sfp spawner give MAGMA_CUBE 1 %player%
+  slime_spawner:
+    buy-price-total: 1000000
+    execute:
+    - sfp spawner give SLIME 1 %player%
+  witch_spawner:
+    buy-price-total: 600000
+    execute:
+    - sfp spawner give WITCH 1 %player%
+  void_chest:
+    buy-price-total: 5000000
+    execute:
+    - shop void_chest give %player%
+  crop_hopper:
+    buy-price-total: 100000
+    execute:
+    - shop crop_hopper give %player%
+  core:
+    buy-price-total: 1000
+    execute:
+    - ti core give %player%
+  shockwave-one:
+    buy-price-total: 150000
+    execute:
+    - sfp enchant give Shockwave 1 %player%
+  shockwave-two:
+    buy-price-total: 350000
+    execute:
+    - sfp enchant give Shockwave 2 %player%
+  shockwave-three:
+    buy-price-total: 600000
+    execute:
+    - sfp enchant give Shockwave 3 %player%
+  logger-one:
+    buy-price-total: 50000
+    execute:
+    - sfp enchant give Logger 1 %player%
+  vortex-one:
+    buy-price-total: 100000
+    execute:
+    - sfp enchant give Vortex 1 %player%
+  strength-two:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 373
+        amount: 1
+        data: 8233
+  speed-two:
+    buy-price-total: 250
+    give:
+      item1:
+        material: 373
+        amount: 1
+        data: 8226
+  regen-extended:
+    buy-price-total:  250
+    give:
+      item1:
+        material: 373
+        amount: 1
+        data: 8257
+  health-spalsh-two:
+    buy-price-total: 75
+    execute:
+    - give %player% 373:16421 1
+  fireres-extended:
+    buy-price-total:  250
+    give:
+      item1:
+        material: 373
+        amount: 1
+        data: 8259
+  speed-extreme:
+    buy-price-total: 2500
+    name: "&8&kx&b&lSpeed+&8&kx"
+    execute:
+    - give %player% 373:8226 1 effect:speed power:2 duration:480
+  strength-extreme:
+    buy-price-total: 2500
+    name: "&8&kx&d&lStrength+&8&kx"
+    execute:
+    - give %player% 373:8233 1 effect:strength power:2 duration:480
+  snow-block:
+    buy-price-total: 200
+    give:
+      item1:
+        material: 80
+        amount: 64
+  snow-component:
+    buy-price-total: 30
+    give:
+      item1:
+        material: 78
+        amount: 64
+  trap-door:
+    buy-price-total: 155
+    give:
+      item1:
+        material: 96
+        amount: 64
+
